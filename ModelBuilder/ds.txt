@@ -1,0 +1,1534 @@
+weather today	what is the weather outside?.
+weather today	is it raining right now?.
+weather tomorrow	will it rain tomorrow?.
+weather today	what is the temperature outside?.
+weather tomorrow	what will be the temperature tomorrow?.
+weather today	is it windy outside?.
+weather yesterday	was it sunny yesterday?.
+weather today	is the sky clear?.
+weather today	what is the forecast for today?.
+weather today	is it hot outside?.
+weather today	are there clouds in the sky?.
+weather today	is it chilly today?.
+weather today	how many degrees are outside?.
+weather today	give me the current forecast.
+weather today	will it snow today?.
+weather today	can you show me the weather report?.
+weather today	can you show me the weather forecast?.
+weather today	get me the weather update.
+weather today	get me the weather report.
+music	can you play a song?.
+music	can you play music?.
+music	can you play a melody?.
+music	can you play a tune?.
+music	can you play a piece?.
+music	can you play a vocal?.
+music	can you play a number?.
+music	can you play a ballad?.
+music	can you put something to listen to?.
+music	can you play a performance?.
+music	can you play a sound?.
+music	can you play a concert?.
+music	can you play a track?.
+music	can you play a instrumental?.
+music	can you play a chant?.
+music	can you play a anthem?.
+music	can you play a verse?.
+music	can you play a poem?.
+music	can you play sing a part?.
+music	can you play sing a song?.
+music	can you put on a composition?.
+music	play a song.
+music	put on a song.
+music	put on a tune.
+music	play something.
+music	play a rhythm.
+music	close the music.
+music	stop playing.
+flashlight	open flashlight.
+flashlight	open light.
+flashlight	open flash.
+flashlight	give me light.
+flashlight	light up.
+flashlight	activate flashlight.
+flashlight	turn on light.
+flashlight	turn on flash.
+flashlight	turn on flashlight.
+flashlight	brighten up.
+flashlight	help me see better.
+flashlight	can you eliminate the dark?.
+flashlight	it's very dark in here.
+flashlight	I can't see clearly.
+flashlight	switch the light on.
+flashlight	hit the lights.
+flashlight	shine the way.
+flashlight	lights up.
+flashlight	give me flash.
+flashlight	close light.
+flashlight	close flash.
+flashlight	close flashlight.
+flashlight	turn off flash.
+flashlight	stop flash.
+battery	how much battery is left?.
+battery	what is the battery state?.
+battery	what percentage are we on?.
+battery	what percent is left?.
+battery	give me the battery state.
+battery	do i need to charge my phone?.
+battery	when do i need to charge?.
+battery	haw many charge is left?.
+battery	what is the power level?.
+battery	is charging required?.
+battery	give me charging state.
+battery	is the battery low?.
+battery	show me the percentage of the battery.
+battery	show me the percentage left.
+camera	open camera.
+camera	can you open the camera?.
+camera	let me take pictures.
+camera	open front.
+camera	open back.
+camera	let me take a selfi.
+camera	can you take a picture?.
+camera	can you take a video.
+camera	film this.
+camera	save this frame.
+camera	save this visual.
+weather today	what is the weather outside?.
+weather today	is it raining right now?.
+weather tomorrow	will it rain tomorrow?.
+weather today	what is the temperature outside?.
+weather tomorrow	what will be the temperature tomorrow?.
+weather today	is it windy outside?.
+weather yesterday	was it sunny yesterday?.
+weather today	is the sky clear?.
+weather today	what is the forecast for today?.
+weather today	is it hot outside?.
+weather today	are there clouds in the sky?.
+weather today	is it chilly today?.
+weather today	how many degrees are outside?.
+weather today	give me the current forecast.
+weather today	will it snow today?.
+weather today	can you show me the weather report?.
+weather today	can you show me the weather forecast?.
+weather today	get me the weather update.
+weather today	get me the weather report.
+music	can you play a song?.
+music	can you play music?.
+music	can you play a melody?.
+music	can you play a tune?.
+music	can you play a piece?.
+music	can you play a vocal?.
+music	can you play a number?.
+music	can you play a ballad?.
+music	can you put something to listen to?.
+music	can you play a performance?.
+music	can you play a sound?.
+music	can you play a concert?.
+music	can you play a track?.
+music	can you play a instrumental?.
+music	can you play a chant?.
+music	can you play a anthem?.
+music	can you play a verse?.
+music	can you play a poem?.
+music	can you play sing a part?.
+music	can you play sing a song?.
+music	can you put on a composition?.
+music	play a song.
+music	put on a song.
+music	put on a tune.
+music	play something.
+music	play a rhythm.
+music	close the music.
+music	stop playing.
+flashlight	open flashlight.
+flashlight	open light.
+flashlight	open flash.
+flashlight	give me light.
+flashlight	light up.
+flashlight	activate flashlight.
+flashlight	turn on light.
+flashlight	turn on flash.
+flashlight	turn on flashlight.
+flashlight	brighten up.
+flashlight	help me see better.
+flashlight	can you eliminate the dark?.
+flashlight	it's very dark in here.
+flashlight	I can't see clearly.
+flashlight	switch the light on.
+flashlight	hit the lights.
+flashlight	shine the way.
+flashlight	lights up.
+flashlight	give me flash.
+flashlight	close light.
+flashlight	close flash.
+flashlight	close flashlight.
+flashlight	turn off flash.
+flashlight	stop flash.
+battery	how much battery is left?.
+battery	what is the battery state?.
+battery	what percentage are we on?.
+battery	what percent is left?.
+battery	give me the battery state.
+battery	do i need to charge my phone?.
+battery	when do i need to charge?.
+battery	haw many charge is left?.
+battery	what is the power level?.
+battery	is charging required?.
+battery	give me charging state.
+battery	is the battery low?.
+battery	show me the percentage of the battery.
+battery	show me the percentage left.
+camera	open camera.
+camera	can you open the camera?.
+camera	let me take pictures.
+camera	open front.
+camera	open back.
+camera	let me take a selfi.
+camera	can you take a picture?.
+camera	can you take a video.
+camera	film this.
+camera	save this frame.
+camera	save this visual.
+weather today	what is the weather outside?.
+weather today	is it raining right now?.
+weather tomorrow	will it rain tomorrow?.
+weather today	what is the temperature outside?.
+weather tomorrow	what will be the temperature tomorrow?.
+weather today	is it windy outside?.
+weather yesterday	was it sunny yesterday?.
+weather today	is the sky clear?.
+weather today	what is the forecast for today?.
+weather today	is it hot outside?.
+weather today	are there clouds in the sky?.
+weather today	is it chilly today?.
+weather today	how many degrees are outside?.
+weather today	give me the current forecast.
+weather today	will it snow today?.
+weather today	can you show me the weather report?.
+weather today	can you show me the weather forecast?.
+weather today	get me the weather update.
+weather today	get me the weather report.
+music	can you play a song?.
+music	can you play music?.
+music	can you play a melody?.
+music	can you play a tune?.
+music	can you play a piece?.
+music	can you play a vocal?.
+music	can you play a number?.
+music	can you play a ballad?.
+music	can you put something to listen to?.
+music	can you play a performance?.
+music	can you play a sound?.
+music	can you play a concert?.
+music	can you play a track?.
+music	can you play a instrumental?.
+music	can you play a chant?.
+music	can you play a anthem?.
+music	can you play a verse?.
+music	can you play a poem?.
+music	can you play sing a part?.
+music	can you play sing a song?.
+music	can you put on a composition?.
+music	play a song.
+music	put on a song.
+music	put on a tune.
+music	play something.
+music	play a rhythm.
+music	close the music.
+music	stop playing.
+flashlight	open flashlight.
+flashlight	open light.
+flashlight	open flash.
+flashlight	give me light.
+flashlight	light up.
+flashlight	activate flashlight.
+flashlight	turn on light.
+flashlight	turn on flash.
+flashlight	turn on flashlight.
+flashlight	brighten up.
+flashlight	help me see better.
+flashlight	can you eliminate the dark?.
+flashlight	it's very dark in here.
+flashlight	I can't see clearly.
+flashlight	switch the light on.
+flashlight	hit the lights.
+flashlight	shine the way.
+flashlight	lights up.
+flashlight	give me flash.
+flashlight	close light.
+flashlight	close flash.
+flashlight	close flashlight.
+flashlight	turn off flash.
+flashlight	stop flash.
+battery	how much battery is left?.
+battery	what is the battery state?.
+battery	what percentage are we on?.
+battery	what percent is left?.
+battery	give me the battery state.
+battery	do i need to charge my phone?.
+battery	when do i need to charge?.
+battery	haw many charge is left?.
+battery	what is the power level?.
+battery	is charging required?.
+battery	give me charging state.
+battery	is the battery low?.
+battery	show me the percentage of the battery.
+battery	show me the percentage left.
+camera	open camera.
+camera	can you open the camera?.
+camera	let me take pictures.
+camera	open front.
+camera	open back.
+camera	let me take a selfi.
+camera	can you take a picture?.
+camera	can you take a video.
+camera	film this.
+camera	save this frame.
+camera	save this visual.
+weather today	what is the weather outside?.
+weather today	is it raining right now?.
+weather tomorrow	will it rain tomorrow?.
+weather today	what is the temperature outside?.
+weather tomorrow	what will be the temperature tomorrow?.
+weather today	is it windy outside?.
+weather yesterday	was it sunny yesterday?.
+weather today	is the sky clear?.
+weather today	what is the forecast for today?.
+weather today	is it hot outside?.
+weather today	are there clouds in the sky?.
+weather today	is it chilly today?.
+weather today	how many degrees are outside?.
+weather today	give me the current forecast.
+weather today	will it snow today?.
+weather today	can you show me the weather report?.
+weather today	can you show me the weather forecast?.
+weather today	get me the weather update.
+weather today	get me the weather report.
+music	can you play a song?.
+music	can you play music?.
+music	can you play a melody?.
+music	can you play a tune?.
+music	can you play a piece?.
+music	can you play a vocal?.
+music	can you play a number?.
+music	can you play a ballad?.
+music	can you put something to listen to?.
+music	can you play a performance?.
+music	can you play a sound?.
+music	can you play a concert?.
+music	can you play a track?.
+music	can you play a instrumental?.
+music	can you play a chant?.
+music	can you play a anthem?.
+music	can you play a verse?.
+music	can you play a poem?.
+music	can you play sing a part?.
+music	can you play sing a song?.
+music	can you put on a composition?.
+music	play a song.
+music	put on a song.
+music	put on a tune.
+music	play something.
+music	play a rhythm.
+music	close the music.
+music	stop playing.
+flashlight	open flashlight.
+flashlight	open light.
+flashlight	open flash.
+flashlight	give me light.
+flashlight	light up.
+flashlight	activate flashlight.
+flashlight	turn on light.
+flashlight	turn on flash.
+flashlight	turn on flashlight.
+flashlight	brighten up.
+flashlight	help me see better.
+flashlight	can you eliminate the dark?.
+flashlight	it's very dark in here.
+flashlight	I can't see clearly.
+flashlight	switch the light on.
+flashlight	hit the lights.
+flashlight	shine the way.
+flashlight	lights up.
+flashlight	give me flash.
+flashlight	close light.
+flashlight	close flash.
+flashlight	close flashlight.
+flashlight	turn off flash.
+flashlight	stop flash.
+battery	how much battery is left?.
+battery	what is the battery state?.
+battery	what percentage are we on?.
+battery	what percent is left?.
+battery	give me the battery state.
+battery	do i need to charge my phone?.
+battery	when do i need to charge?.
+battery	haw many charge is left?.
+battery	what is the power level?.
+battery	is charging required?.
+battery	give me charging state.
+battery	is the battery low?.
+battery	show me the percentage of the battery.
+battery	show me the percentage left.
+camera	open camera.
+camera	can you open the camera?.
+camera	let me take pictures.
+camera	open front.
+camera	open back.
+camera	let me take a selfi.
+camera	can you take a picture?.
+camera	can you take a video.
+camera	film this.
+camera	save this frame.
+camera	save this visual.
+weather today	what is the weather outside?.
+weather today	is it raining right now?.
+weather tomorrow	will it rain tomorrow?.
+weather today	what is the temperature outside?.
+weather tomorrow	what will be the temperature tomorrow?.
+weather today	is it windy outside?.
+weather yesterday	was it sunny yesterday?.
+weather today	is the sky clear?.
+weather today	what is the forecast for today?.
+weather today	is it hot outside?.
+weather today	are there clouds in the sky?.
+weather today	is it chilly today?.
+weather today	how many degrees are outside?.
+weather today	give me the current forecast.
+weather today	will it snow today?.
+weather today	can you show me the weather report?.
+weather today	can you show me the weather forecast?.
+weather today	get me the weather update.
+weather today	get me the weather report.
+music	can you play a song?.
+music	can you play music?.
+music	can you play a melody?.
+music	can you play a tune?.
+music	can you play a piece?.
+music	can you play a vocal?.
+music	can you play a number?.
+music	can you play a ballad?.
+music	can you put something to listen to?.
+music	can you play a performance?.
+music	can you play a sound?.
+music	can you play a concert?.
+music	can you play a track?.
+music	can you play a instrumental?.
+music	can you play a chant?.
+music	can you play a anthem?.
+music	can you play a verse?.
+music	can you play a poem?.
+music	can you play sing a part?.
+music	can you play sing a song?.
+music	can you put on a composition?.
+music	play a song.
+music	put on a song.
+music	put on a tune.
+music	play something.
+music	play a rhythm.
+music	close the music.
+music	stop playing.
+flashlight	open flashlight.
+flashlight	open light.
+flashlight	open flash.
+flashlight	give me light.
+flashlight	light up.
+flashlight	activate flashlight.
+flashlight	turn on light.
+flashlight	turn on flash.
+flashlight	turn on flashlight.
+flashlight	brighten up.
+flashlight	help me see better.
+flashlight	can you eliminate the dark?.
+flashlight	it's very dark in here.
+flashlight	I can't see clearly.
+flashlight	switch the light on.
+flashlight	hit the lights.
+flashlight	shine the way.
+flashlight	lights up.
+flashlight	give me flash.
+flashlight	close light.
+flashlight	close flash.
+flashlight	close flashlight.
+flashlight	turn off flash.
+flashlight	stop flash.
+battery	how much battery is left?.
+battery	what is the battery state?.
+battery	what percentage are we on?.
+battery	what percent is left?.
+battery	give me the battery state.
+battery	do i need to charge my phone?.
+battery	when do i need to charge?.
+battery	haw many charge is left?.
+battery	what is the power level?.
+battery	is charging required?.
+battery	give me charging state.
+battery	is the battery low?.
+battery	show me the percentage of the battery.
+battery	show me the percentage left.
+camera	open camera.
+camera	can you open the camera?.
+camera	let me take pictures.
+camera	open front.
+camera	open back.
+camera	let me take a selfi.
+camera	can you take a picture?.
+camera	can you take a video.
+camera	film this.
+camera	save this frame.
+camera	save this visual.
+weather today	what is the weather outside?.
+weather today	is it raining right now?.
+weather tomorrow	will it rain tomorrow?.
+weather today	what is the temperature outside?.
+weather tomorrow	what will be the temperature tomorrow?.
+weather today	is it windy outside?.
+weather yesterday	was it sunny yesterday?.
+weather today	is the sky clear?.
+weather today	what is the forecast for today?.
+weather today	is it hot outside?.
+weather today	are there clouds in the sky?.
+weather today	is it chilly today?.
+weather today	how many degrees are outside?.
+weather today	give me the current forecast.
+weather today	will it snow today?.
+weather today	can you show me the weather report?.
+weather today	can you show me the weather forecast?.
+weather today	get me the weather update.
+weather today	get me the weather report.
+music	can you play a song?.
+music	can you play music?.
+music	can you play a melody?.
+music	can you play a tune?.
+music	can you play a piece?.
+music	can you play a vocal?.
+music	can you play a number?.
+music	can you play a ballad?.
+music	can you put something to listen to?.
+music	can you play a performance?.
+music	can you play a sound?.
+music	can you play a concert?.
+music	can you play a track?.
+music	can you play a instrumental?.
+music	can you play a chant?.
+music	can you play a anthem?.
+music	can you play a verse?.
+music	can you play a poem?.
+music	can you play sing a part?.
+music	can you play sing a song?.
+music	can you put on a composition?.
+music	play a song.
+music	put on a song.
+music	put on a tune.
+music	play something.
+music	play a rhythm.
+music	close the music.
+music	stop playing.
+flashlight	open flashlight.
+flashlight	open light.
+flashlight	open flash.
+flashlight	give me light.
+flashlight	light up.
+flashlight	activate flashlight.
+flashlight	turn on light.
+flashlight	turn on flash.
+flashlight	turn on flashlight.
+flashlight	brighten up.
+flashlight	help me see better.
+flashlight	can you eliminate the dark?.
+flashlight	it's very dark in here.
+flashlight	I can't see clearly.
+flashlight	switch the light on.
+flashlight	hit the lights.
+flashlight	shine the way.
+flashlight	lights up.
+flashlight	give me flash.
+flashlight	close light.
+flashlight	close flash.
+flashlight	close flashlight.
+flashlight	turn off flash.
+flashlight	stop flash.
+battery	how much battery is left?.
+battery	what is the battery state?.
+battery	what percentage are we on?.
+battery	what percent is left?.
+battery	give me the battery state.
+battery	do i need to charge my phone?.
+battery	when do i need to charge?.
+battery	haw many charge is left?.
+battery	what is the power level?.
+battery	is charging required?.
+battery	give me charging state.
+battery	is the battery low?.
+battery	show me the percentage of the battery.
+battery	show me the percentage left.
+camera	open camera.
+camera	can you open the camera?.
+camera	let me take pictures.
+camera	open front.
+camera	open back.
+camera	let me take a selfi.
+camera	can you take a picture?.
+camera	can you take a video.
+camera	film this.
+camera	save this frame.
+camera	save this visual.
+weather today	what is the weather outside?.
+weather today	is it raining right now?.
+weather tomorrow	will it rain tomorrow?.
+weather today	what is the temperature outside?.
+weather tomorrow	what will be the temperature tomorrow?.
+weather today	is it windy outside?.
+weather yesterday	was it sunny yesterday?.
+weather today	is the sky clear?.
+weather today	what is the forecast for today?.
+weather today	is it hot outside?.
+weather today	are there clouds in the sky?.
+weather today	is it chilly today?.
+weather today	how many degrees are outside?.
+weather today	give me the current forecast.
+weather today	will it snow today?.
+weather today	can you show me the weather report?.
+weather today	can you show me the weather forecast?.
+weather today	get me the weather update.
+weather today	get me the weather report.
+music	can you play a song?.
+music	can you play music?.
+music	can you play a melody?.
+music	can you play a tune?.
+music	can you play a piece?.
+music	can you play a vocal?.
+music	can you play a number?.
+music	can you play a ballad?.
+music	can you put something to listen to?.
+music	can you play a performance?.
+music	can you play a sound?.
+music	can you play a concert?.
+music	can you play a track?.
+music	can you play a instrumental?.
+music	can you play a chant?.
+music	can you play a anthem?.
+music	can you play a verse?.
+music	can you play a poem?.
+music	can you play sing a part?.
+music	can you play sing a song?.
+music	can you put on a composition?.
+music	play a song.
+music	put on a song.
+music	put on a tune.
+music	play something.
+music	play a rhythm.
+music	close the music.
+music	stop playing.
+flashlight	open flashlight.
+flashlight	open light.
+flashlight	open flash.
+flashlight	give me light.
+flashlight	light up.
+flashlight	activate flashlight.
+flashlight	turn on light.
+flashlight	turn on flash.
+flashlight	turn on flashlight.
+flashlight	brighten up.
+flashlight	help me see better.
+flashlight	can you eliminate the dark?.
+flashlight	it's very dark in here.
+flashlight	I can't see clearly.
+flashlight	switch the light on.
+flashlight	hit the lights.
+flashlight	shine the way.
+flashlight	lights up.
+flashlight	give me flash.
+flashlight	close light.
+flashlight	close flash.
+flashlight	close flashlight.
+flashlight	turn off flash.
+flashlight	stop flash.
+battery	how much battery is left?.
+battery	what is the battery state?.
+battery	what percentage are we on?.
+battery	what percent is left?.
+battery	give me the battery state.
+battery	do i need to charge my phone?.
+battery	when do i need to charge?.
+battery	haw many charge is left?.
+battery	what is the power level?.
+battery	is charging required?.
+battery	give me charging state.
+battery	is the battery low?.
+battery	show me the percentage of the battery.
+battery	show me the percentage left.
+camera	open camera.
+camera	can you open the camera?.
+camera	let me take pictures.
+camera	open front.
+camera	open back.
+camera	let me take a selfi.
+camera	can you take a picture?.
+camera	can you take a video.
+camera	film this.
+camera	save this frame.
+camera	save this visual.
+weather today	what is the weather outside?.
+weather today	is it raining right now?.
+weather tomorrow	will it rain tomorrow?.
+weather today	what is the temperature outside?.
+weather tomorrow	what will be the temperature tomorrow?.
+weather today	is it windy outside?.
+weather yesterday	was it sunny yesterday?.
+weather today	is the sky clear?.
+weather today	what is the forecast for today?.
+weather today	is it hot outside?.
+weather today	are there clouds in the sky?.
+weather today	is it chilly today?.
+weather today	how many degrees are outside?.
+weather today	give me the current forecast.
+weather today	will it snow today?.
+weather today	can you show me the weather report?.
+weather today	can you show me the weather forecast?.
+weather today	get me the weather update.
+weather today	get me the weather report.
+music	can you play a song?.
+music	can you play music?.
+music	can you play a melody?.
+music	can you play a tune?.
+music	can you play a piece?.
+music	can you play a vocal?.
+music	can you play a number?.
+music	can you play a ballad?.
+music	can you put something to listen to?.
+music	can you play a performance?.
+music	can you play a sound?.
+music	can you play a concert?.
+music	can you play a track?.
+music	can you play a instrumental?.
+music	can you play a chant?.
+music	can you play a anthem?.
+music	can you play a verse?.
+music	can you play a poem?.
+music	can you play sing a part?.
+music	can you play sing a song?.
+music	can you put on a composition?.
+music	play a song.
+music	put on a song.
+music	put on a tune.
+music	play something.
+music	play a rhythm.
+music	close the music.
+music	stop playing.
+flashlight	open flashlight.
+flashlight	open light.
+flashlight	open flash.
+flashlight	give me light.
+flashlight	light up.
+flashlight	activate flashlight.
+flashlight	turn on light.
+flashlight	turn on flash.
+flashlight	turn on flashlight.
+flashlight	brighten up.
+flashlight	help me see better.
+flashlight	can you eliminate the dark?.
+flashlight	it's very dark in here.
+flashlight	I can't see clearly.
+flashlight	switch the light on.
+flashlight	hit the lights.
+flashlight	shine the way.
+flashlight	lights up.
+flashlight	give me flash.
+flashlight	close light.
+flashlight	close flash.
+flashlight	close flashlight.
+flashlight	turn off flash.
+flashlight	stop flash.
+battery	how much battery is left?.
+battery	what is the battery state?.
+battery	what percentage are we on?.
+battery	what percent is left?.
+battery	give me the battery state.
+battery	do i need to charge my phone?.
+battery	when do i need to charge?.
+battery	haw many charge is left?.
+battery	what is the power level?.
+battery	is charging required?.
+battery	give me charging state.
+battery	is the battery low?.
+battery	show me the percentage of the battery.
+battery	show me the percentage left.
+camera	open camera.
+camera	can you open the camera?.
+camera	let me take pictures.
+camera	open front.
+camera	open back.
+camera	let me take a selfi.
+camera	can you take a picture?.
+camera	can you take a video.
+camera	film this.
+camera	save this frame.
+camera	save this visual.
+weather today	what is the weather outside?.
+weather today	is it raining right now?.
+weather tomorrow	will it rain tomorrow?.
+weather today	what is the temperature outside?.
+weather tomorrow	what will be the temperature tomorrow?.
+weather today	is it windy outside?.
+weather yesterday	was it sunny yesterday?.
+weather today	is the sky clear?.
+weather today	what is the forecast for today?.
+weather today	is it hot outside?.
+weather today	are there clouds in the sky?.
+weather today	is it chilly today?.
+weather today	how many degrees are outside?.
+weather today	give me the current forecast.
+weather today	will it snow today?.
+weather today	can you show me the weather report?.
+weather today	can you show me the weather forecast?.
+weather today	get me the weather update.
+weather today	get me the weather report.
+music	can you play a song?.
+music	can you play music?.
+music	can you play a melody?.
+music	can you play a tune?.
+music	can you play a piece?.
+music	can you play a vocal?.
+music	can you play a number?.
+music	can you play a ballad?.
+music	can you put something to listen to?.
+music	can you play a performance?.
+music	can you play a sound?.
+music	can you play a concert?.
+music	can you play a track?.
+music	can you play a instrumental?.
+music	can you play a chant?.
+music	can you play a anthem?.
+music	can you play a verse?.
+music	can you play a poem?.
+music	can you play sing a part?.
+music	can you play sing a song?.
+music	can you put on a composition?.
+music	play a song.
+music	put on a song.
+music	put on a tune.
+music	play something.
+music	play a rhythm.
+music	close the music.
+music	stop playing.
+flashlight	open flashlight.
+flashlight	open light.
+flashlight	open flash.
+flashlight	give me light.
+flashlight	light up.
+flashlight	activate flashlight.
+flashlight	turn on light.
+flashlight	turn on flash.
+flashlight	turn on flashlight.
+flashlight	brighten up.
+flashlight	help me see better.
+flashlight	can you eliminate the dark?.
+flashlight	it's very dark in here.
+flashlight	I can't see clearly.
+flashlight	switch the light on.
+flashlight	hit the lights.
+flashlight	shine the way.
+flashlight	lights up.
+flashlight	give me flash.
+flashlight	close light.
+flashlight	close flash.
+flashlight	close flashlight.
+flashlight	turn off flash.
+flashlight	stop flash.
+battery	how much battery is left?.
+battery	what is the battery state?.
+battery	what percentage are we on?.
+battery	what percent is left?.
+battery	give me the battery state.
+battery	do i need to charge my phone?.
+battery	when do i need to charge?.
+battery	haw many charge is left?.
+battery	what is the power level?.
+battery	is charging required?.
+battery	give me charging state.
+battery	is the battery low?.
+battery	show me the percentage of the battery.
+battery	show me the percentage left.
+camera	open camera.
+camera	can you open the camera?.
+camera	let me take pictures.
+camera	open front.
+camera	open back.
+camera	let me take a selfi.
+camera	can you take a picture?.
+camera	can you take a video.
+camera	film this.
+camera	save this frame.
+camera	save this visual.
+weather today	what is the weather outside?.
+weather today	is it raining right now?.
+weather tomorrow	will it rain tomorrow?.
+weather today	what is the temperature outside?.
+weather tomorrow	what will be the temperature tomorrow?.
+weather today	is it windy outside?.
+weather yesterday	was it sunny yesterday?.
+weather today	is the sky clear?.
+weather today	what is the forecast for today?.
+weather today	is it hot outside?.
+weather today	are there clouds in the sky?.
+weather today	is it chilly today?.
+weather today	how many degrees are outside?.
+weather today	give me the current forecast.
+weather today	will it snow today?.
+weather today	can you show me the weather report?.
+weather today	can you show me the weather forecast?.
+weather today	get me the weather update.
+weather today	get me the weather report.
+music	can you play a song?.
+music	can you play music?.
+music	can you play a melody?.
+music	can you play a tune?.
+music	can you play a piece?.
+music	can you play a vocal?.
+music	can you play a number?.
+music	can you play a ballad?.
+music	can you put something to listen to?.
+music	can you play a performance?.
+music	can you play a sound?.
+music	can you play a concert?.
+music	can you play a track?.
+music	can you play a instrumental?.
+music	can you play a chant?.
+music	can you play a anthem?.
+music	can you play a verse?.
+music	can you play a poem?.
+music	can you play sing a part?.
+music	can you play sing a song?.
+music	can you put on a composition?.
+music	play a song.
+music	put on a song.
+music	put on a tune.
+music	play something.
+music	play a rhythm.
+music	close the music.
+music	stop playing.
+flashlight	open flashlight.
+flashlight	open light.
+flashlight	open flash.
+flashlight	give me light.
+flashlight	light up.
+flashlight	activate flashlight.
+flashlight	turn on light.
+flashlight	turn on flash.
+flashlight	turn on flashlight.
+flashlight	brighten up.
+flashlight	help me see better.
+flashlight	can you eliminate the dark?.
+flashlight	it's very dark in here.
+flashlight	I can't see clearly.
+flashlight	switch the light on.
+flashlight	hit the lights.
+flashlight	shine the way.
+flashlight	lights up.
+flashlight	give me flash.
+flashlight	close light.
+flashlight	close flash.
+flashlight	close flashlight.
+flashlight	turn off flash.
+flashlight	stop flash.
+battery	how much battery is left?.
+battery	what is the battery state?.
+battery	what percentage are we on?.
+battery	what percent is left?.
+battery	give me the battery state.
+battery	do i need to charge my phone?.
+battery	when do i need to charge?.
+battery	haw many charge is left?.
+battery	what is the power level?.
+battery	is charging required?.
+battery	give me charging state.
+battery	is the battery low?.
+battery	show me the percentage of the battery.
+battery	show me the percentage left.
+camera	open camera.
+camera	can you open the camera?.
+camera	let me take pictures.
+camera	open front.
+camera	open back.
+camera	let me take a selfi.
+camera	can you take a picture?.
+camera	can you take a video.
+camera	film this.
+camera	save this frame.
+camera	save this visual.
+weather today	what is the weather outside?.
+weather today	is it raining right now?.
+weather tomorrow	will it rain tomorrow?.
+weather today	what is the temperature outside?.
+weather tomorrow	what will be the temperature tomorrow?.
+weather today	is it windy outside?.
+weather yesterday	was it sunny yesterday?.
+weather today	is the sky clear?.
+weather today	what is the forecast for today?.
+weather today	is it hot outside?.
+weather today	are there clouds in the sky?.
+weather today	is it chilly today?.
+weather today	how many degrees are outside?.
+weather today	give me the current forecast.
+weather today	will it snow today?.
+weather today	can you show me the weather report?.
+weather today	can you show me the weather forecast?.
+weather today	get me the weather update.
+weather today	get me the weather report.
+music	can you play a song?.
+music	can you play music?.
+music	can you play a melody?.
+music	can you play a tune?.
+music	can you play a piece?.
+music	can you play a vocal?.
+music	can you play a number?.
+music	can you play a ballad?.
+music	can you put something to listen to?.
+music	can you play a performance?.
+music	can you play a sound?.
+music	can you play a concert?.
+music	can you play a track?.
+music	can you play a instrumental?.
+music	can you play a chant?.
+music	can you play a anthem?.
+music	can you play a verse?.
+music	can you play a poem?.
+music	can you play sing a part?.
+music	can you play sing a song?.
+music	can you put on a composition?.
+music	play a song.
+music	put on a song.
+music	put on a tune.
+music	play something.
+music	play a rhythm.
+music	close the music.
+music	stop playing.
+flashlight	open flashlight.
+flashlight	open light.
+flashlight	open flash.
+flashlight	give me light.
+flashlight	light up.
+flashlight	activate flashlight.
+flashlight	turn on light.
+flashlight	turn on flash.
+flashlight	turn on flashlight.
+flashlight	brighten up.
+flashlight	help me see better.
+flashlight	can you eliminate the dark?.
+flashlight	it's very dark in here.
+flashlight	I can't see clearly.
+flashlight	switch the light on.
+flashlight	hit the lights.
+flashlight	shine the way.
+flashlight	lights up.
+flashlight	give me flash.
+flashlight	close light.
+flashlight	close flash.
+flashlight	close flashlight.
+flashlight	turn off flash.
+flashlight	stop flash.
+battery	how much battery is left?.
+battery	what is the battery state?.
+battery	what percentage are we on?.
+battery	what percent is left?.
+battery	give me the battery state.
+battery	do i need to charge my phone?.
+battery	when do i need to charge?.
+battery	haw many charge is left?.
+battery	what is the power level?.
+battery	is charging required?.
+battery	give me charging state.
+battery	is the battery low?.
+battery	show me the percentage of the battery.
+battery	show me the percentage left.
+camera	open camera.
+camera	can you open the camera?.
+camera	let me take pictures.
+camera	open front.
+camera	open back.
+camera	let me take a selfi.
+camera	can you take a picture?.
+camera	can you take a video.
+camera	film this.
+camera	save this frame.
+camera	save this visual.
+weather today	what is the weather outside?.
+weather today	is it raining right now?.
+weather tomorrow	will it rain tomorrow?.
+weather today	what is the temperature outside?.
+weather tomorrow	what will be the temperature tomorrow?.
+weather today	is it windy outside?.
+weather yesterday	was it sunny yesterday?.
+weather today	is the sky clear?.
+weather today	what is the forecast for today?.
+weather today	is it hot outside?.
+weather today	are there clouds in the sky?.
+weather today	is it chilly today?.
+weather today	how many degrees are outside?.
+weather today	give me the current forecast.
+weather today	will it snow today?.
+weather today	can you show me the weather report?.
+weather today	can you show me the weather forecast?.
+weather today	get me the weather update.
+weather today	get me the weather report.
+music	can you play a song?.
+music	can you play music?.
+music	can you play a melody?.
+music	can you play a tune?.
+music	can you play a piece?.
+music	can you play a vocal?.
+music	can you play a number?.
+music	can you play a ballad?.
+music	can you put something to listen to?.
+music	can you play a performance?.
+music	can you play a sound?.
+music	can you play a concert?.
+music	can you play a track?.
+music	can you play a instrumental?.
+music	can you play a chant?.
+music	can you play a anthem?.
+music	can you play a verse?.
+music	can you play a poem?.
+music	can you play sing a part?.
+music	can you play sing a song?.
+music	can you put on a composition?.
+music	play a song.
+music	put on a song.
+music	put on a tune.
+music	play something.
+music	play a rhythm.
+music	close the music.
+music	stop playing.
+flashlight	open flashlight.
+flashlight	open light.
+flashlight	open flash.
+flashlight	give me light.
+flashlight	light up.
+flashlight	activate flashlight.
+flashlight	turn on light.
+flashlight	turn on flash.
+flashlight	turn on flashlight.
+flashlight	brighten up.
+flashlight	help me see better.
+flashlight	can you eliminate the dark?.
+flashlight	it's very dark in here.
+flashlight	I can't see clearly.
+flashlight	switch the light on.
+flashlight	hit the lights.
+flashlight	shine the way.
+flashlight	lights up.
+flashlight	give me flash.
+flashlight	close light.
+flashlight	close flash.
+flashlight	close flashlight.
+flashlight	turn off flash.
+flashlight	stop flash.
+battery	how much battery is left?.
+battery	what is the battery state?.
+battery	what percentage are we on?.
+battery	what percent is left?.
+battery	give me the battery state.
+battery	do i need to charge my phone?.
+battery	when do i need to charge?.
+battery	haw many charge is left?.
+battery	what is the power level?.
+battery	is charging required?.
+battery	give me charging state.
+battery	is the battery low?.
+battery	show me the percentage of the battery.
+battery	show me the percentage left.
+camera	open camera.
+camera	can you open the camera?.
+camera	let me take pictures.
+camera	open front.
+camera	open back.
+camera	let me take a selfi.
+camera	can you take a picture?.
+camera	can you take a video.
+camera	film this.
+camera	save this frame.
+camera	save this visual.
+weather today	what is the weather outside?.
+weather today	is it raining right now?.
+weather tomorrow	will it rain tomorrow?.
+weather today	what is the temperature outside?.
+weather tomorrow	what will be the temperature tomorrow?.
+weather today	is it windy outside?.
+weather yesterday	was it sunny yesterday?.
+weather today	is the sky clear?.
+weather today	what is the forecast for today?.
+weather today	is it hot outside?.
+weather today	are there clouds in the sky?.
+weather today	is it chilly today?.
+weather today	how many degrees are outside?.
+weather today	give me the current forecast.
+weather today	will it snow today?.
+weather today	can you show me the weather report?.
+weather today	can you show me the weather forecast?.
+weather today	get me the weather update.
+weather today	get me the weather report.
+music	can you play a song?.
+music	can you play music?.
+music	can you play a melody?.
+music	can you play a tune?.
+music	can you play a piece?.
+music	can you play a vocal?.
+music	can you play a number?.
+music	can you play a ballad?.
+music	can you put something to listen to?.
+music	can you play a performance?.
+music	can you play a sound?.
+music	can you play a concert?.
+music	can you play a track?.
+music	can you play a instrumental?.
+music	can you play a chant?.
+music	can you play a anthem?.
+music	can you play a verse?.
+music	can you play a poem?.
+music	can you play sing a part?.
+music	can you play sing a song?.
+music	can you put on a composition?.
+music	play a song.
+music	put on a song.
+music	put on a tune.
+music	play something.
+music	play a rhythm.
+music	close the music.
+music	stop playing.
+flashlight	open flashlight.
+flashlight	open light.
+flashlight	open flash.
+flashlight	give me light.
+flashlight	light up.
+flashlight	activate flashlight.
+flashlight	turn on light.
+flashlight	turn on flash.
+flashlight	turn on flashlight.
+flashlight	brighten up.
+flashlight	help me see better.
+flashlight	can you eliminate the dark?.
+flashlight	it's very dark in here.
+flashlight	I can't see clearly.
+flashlight	switch the light on.
+flashlight	hit the lights.
+flashlight	shine the way.
+flashlight	lights up.
+flashlight	give me flash.
+flashlight	close light.
+flashlight	close flash.
+flashlight	close flashlight.
+flashlight	turn off flash.
+flashlight	stop flash.
+battery	how much battery is left?.
+battery	what is the battery state?.
+battery	what percentage are we on?.
+battery	what percent is left?.
+battery	give me the battery state.
+battery	do i need to charge my phone?.
+battery	when do i need to charge?.
+battery	haw many charge is left?.
+battery	what is the power level?.
+battery	is charging required?.
+battery	give me charging state.
+battery	is the battery low?.
+battery	show me the percentage of the battery.
+battery	show me the percentage left.
+camera	open camera.
+camera	can you open the camera?.
+camera	let me take pictures.
+camera	open front.
+camera	open back.
+camera	let me take a selfi.
+camera	can you take a picture?.
+camera	can you take a video.
+camera	film this.
+camera	save this frame.
+camera	save this visual.
+weather today	what is the weather outside?.
+weather today	is it raining right now?.
+weather tomorrow	will it rain tomorrow?.
+weather today	what is the temperature outside?.
+weather tomorrow	what will be the temperature tomorrow?.
+weather today	is it windy outside?.
+weather yesterday	was it sunny yesterday?.
+weather today	is the sky clear?.
+weather today	what is the forecast for today?.
+weather today	is it hot outside?.
+weather today	are there clouds in the sky?.
+weather today	is it chilly today?.
+weather today	how many degrees are outside?.
+weather today	give me the current forecast.
+weather today	will it snow today?.
+weather today	can you show me the weather report?.
+weather today	can you show me the weather forecast?.
+weather today	get me the weather update.
+weather today	get me the weather report.
+music	can you play a song?.
+music	can you play music?.
+music	can you play a melody?.
+music	can you play a tune?.
+music	can you play a piece?.
+music	can you play a vocal?.
+music	can you play a number?.
+music	can you play a ballad?.
+music	can you put something to listen to?.
+music	can you play a performance?.
+music	can you play a sound?.
+music	can you play a concert?.
+music	can you play a track?.
+music	can you play a instrumental?.
+music	can you play a chant?.
+music	can you play a anthem?.
+music	can you play a verse?.
+music	can you play a poem?.
+music	can you play sing a part?.
+music	can you play sing a song?.
+music	can you put on a composition?.
+music	play a song.
+music	put on a song.
+music	put on a tune.
+music	play something.
+music	play a rhythm.
+music	close the music.
+music	stop playing.
+flashlight	open flashlight.
+flashlight	open light.
+flashlight	open flash.
+flashlight	give me light.
+flashlight	light up.
+flashlight	activate flashlight.
+flashlight	turn on light.
+flashlight	turn on flash.
+flashlight	turn on flashlight.
+flashlight	brighten up.
+flashlight	help me see better.
+flashlight	can you eliminate the dark?.
+flashlight	it's very dark in here.
+flashlight	I can't see clearly.
+flashlight	switch the light on.
+flashlight	hit the lights.
+flashlight	shine the way.
+flashlight	lights up.
+flashlight	give me flash.
+flashlight	close light.
+flashlight	close flash.
+flashlight	close flashlight.
+flashlight	turn off flash.
+flashlight	stop flash.
+battery	how much battery is left?.
+battery	what is the battery state?.
+battery	what percentage are we on?.
+battery	what percent is left?.
+battery	give me the battery state.
+battery	do i need to charge my phone?.
+battery	when do i need to charge?.
+battery	haw many charge is left?.
+battery	what is the power level?.
+battery	is charging required?.
+battery	give me charging state.
+battery	is the battery low?.
+battery	show me the percentage of the battery.
+battery	show me the percentage left.
+camera	open camera.
+camera	can you open the camera?.
+camera	let me take pictures.
+camera	open front.
+camera	open back.
+camera	let me take a selfi.
+camera	can you take a picture?.
+camera	can you take a video.
+camera	film this.
+camera	save this frame.
+camera	save this visual.
+weather today	what is the weather outside?.
+weather today	is it raining right now?.
+weather tomorrow	will it rain tomorrow?.
+weather today	what is the temperature outside?.
+weather tomorrow	what will be the temperature tomorrow?.
+weather today	is it windy outside?.
+weather yesterday	was it sunny yesterday?.
+weather today	is the sky clear?.
+weather today	what is the forecast for today?.
+weather today	is it hot outside?.
+weather today	are there clouds in the sky?.
+weather today	is it chilly today?.
+weather today	how many degrees are outside?.
+weather today	give me the current forecast.
+weather today	will it snow today?.
+weather today	can you show me the weather report?.
+weather today	can you show me the weather forecast?.
+weather today	get me the weather update.
+weather today	get me the weather report.
+music	can you play a song?.
+music	can you play music?.
+music	can you play a melody?.
+music	can you play a tune?.
+music	can you play a piece?.
+music	can you play a vocal?.
+music	can you play a number?.
+music	can you play a ballad?.
+music	can you put something to listen to?.
+music	can you play a performance?.
+music	can you play a sound?.
+music	can you play a concert?.
+music	can you play a track?.
+music	can you play a instrumental?.
+music	can you play a chant?.
+music	can you play a anthem?.
+music	can you play a verse?.
+music	can you play a poem?.
+music	can you play sing a part?.
+music	can you play sing a song?.
+music	can you put on a composition?.
+music	play a song.
+music	put on a song.
+music	put on a tune.
+music	play something.
+music	play a rhythm.
+music	close the music.
+music	stop playing.
+flashlight	open flashlight.
+flashlight	open light.
+flashlight	open flash.
+flashlight	give me light.
+flashlight	light up.
+flashlight	activate flashlight.
+flashlight	turn on light.
+flashlight	turn on flash.
+flashlight	turn on flashlight.
+flashlight	brighten up.
+flashlight	help me see better.
+flashlight	can you eliminate the dark?.
+flashlight	it's very dark in here.
+flashlight	I can't see clearly.
+flashlight	switch the light on.
+flashlight	hit the lights.
+flashlight	shine the way.
+flashlight	lights up.
+flashlight	give me flash.
+flashlight	close light.
+flashlight	close flash.
+flashlight	close flashlight.
+flashlight	turn off flash.
+flashlight	stop flash.
+battery	how much battery is left?.
+battery	what is the battery state?.
+battery	what percentage are we on?.
+battery	what percent is left?.
+battery	give me the battery state.
+battery	do i need to charge my phone?.
+battery	when do i need to charge?.
+battery	haw many charge is left?.
+battery	what is the power level?.
+battery	is charging required?.
+battery	give me charging state.
+battery	is the battery low?.
+battery	show me the percentage of the battery.
+battery	show me the percentage left.
+camera	open camera.
+camera	can you open the camera?.
+camera	let me take pictures.
+camera	open front.
+camera	open back.
+camera	let me take a selfi.
+camera	can you take a picture?.
+camera	can you take a video.
+camera	film this.
+camera	save this frame.
+camera	save this visual.
+weather today	what is the weather outside?.
+weather today	is it raining right now?.
+weather tomorrow	will it rain tomorrow?.
+weather today	what is the temperature outside?.
+weather tomorrow	what will be the temperature tomorrow?.
+weather today	is it windy outside?.
+weather yesterday	was it sunny yesterday?.
+weather today	is the sky clear?.
+weather today	what is the forecast for today?.
+weather today	is it hot outside?.
+weather today	are there clouds in the sky?.
+weather today	is it chilly today?.
+weather today	how many degrees are outside?.
+weather today	give me the current forecast.
+weather today	will it snow today?.
+weather today	can you show me the weather report?.
+weather today	can you show me the weather forecast?.
+weather today	get me the weather update.
+weather today	get me the weather report.
+music	can you play a song?.
+music	can you play music?.
+music	can you play a melody?.
+music	can you play a tune?.
+music	can you play a piece?.
+music	can you play a vocal?.
+music	can you play a number?.
+music	can you play a ballad?.
+music	can you put something to listen to?.
+music	can you play a performance?.
+music	can you play a sound?.
+music	can you play a concert?.
+music	can you play a track?.
+music	can you play a instrumental?.
+music	can you play a chant?.
+music	can you play a anthem?.
+music	can you play a verse?.
+music	can you play a poem?.
+music	can you play sing a part?.
+music	can you play sing a song?.
+music	can you put on a composition?.
+music	play a song.
+music	put on a song.
+music	put on a tune.
+music	play something.
+music	play a rhythm.
+flashlight	open flashlight.
+flashlight	open light.
+flashlight	open flash.
+flashlight	give me light.
+flashlight	light up.
+flashlight	activate flashlight.
+flashlight	turn on light.
+flashlight	turn on flash.
+flashlight	turn on flashlight.
+flashlight	brighten up.
+flashlight	help me see better.
+flashlight	can you eliminate the dark?.
+flashlight	it's very dark in here.
+flashlight	I can't see clearly.
+flashlight	switch the light on.
+flashlight	hit the lights.
+flashlight	shine the way.
+flashlight	lights up.
+flashlight	give me flash.
+flashlight	close light.
+flashlight	close flash.
+flashlight	close flashlight.
+flashlight	turn off flash.
+flashlight	stop flash.
+battery	how much battery is left?.
+battery	what is the battery state?.
+battery	what percentage are we on?.
+battery	what percent is left?.
+battery	give me the battery state.
+battery	do i need to charge my phone?.
+battery	when do i need to charge?.
+battery	haw many charge is left?.
+battery	what is the power level?.
+battery	is charging required?.
+battery	give me charging state.
+battery	is the battery low?.
+battery	show me the percentage of the battery.
+battery	show me the percentage left.
+camera	open camera.
+camera	can you open the camera?.
+camera	let me take pictures.
+camera	open front.
+camera	open back.
+camera	let me take a selfi.
+camera	can you take a picture?.
+camera	can you take a video.
+camera	film this.
+camera	save this frame.
+camera	save this visual.
